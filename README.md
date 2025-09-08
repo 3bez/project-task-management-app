@@ -19,11 +19,11 @@ A comprehensive web-based project and task management application with unique da
 - **Authentication**: JWT with email/password
 
 ## 📁 Project Structure
-├── frontend/          # React.js client application
-├── backend/           # Node.js API server
-├── database/          # Database schemas and migrations
-├── docs/              # Project documentation
-└── scripts/           # Deployment and utility scripts
+-├── frontend/          # React.js client application
+-├── backend/           # Node.js API server
+-├── database/          # Database schemas and migrations
+-├── docs/              # Project documentation
+-└── scripts/           # Deployment and utility scripts
 
 ## 🚦 Development Status
 
