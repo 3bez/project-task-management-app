@@ -64,7 +64,7 @@ npm install
 cd ../database
 # Follow database setup instructions
 
-### Running the Application
+## 🚦 Running the Application
 
 # Start backend server (Terminal 1)
 cd backend
